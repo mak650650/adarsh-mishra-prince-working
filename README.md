@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
-
+   </head>   
+<img src="https://imgur.com/0C8CAOE"> 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/Admishra123">Adarsh mishra</a></b>
