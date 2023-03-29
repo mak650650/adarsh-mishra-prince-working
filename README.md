@@ -37,8 +37,6 @@
             「   I enjoy building design animations using figma and variuos AI Tools.  」
             <br/>
             「 Focusing on learning UX design by creating some projects for my <a href="https://www.instagram.com/m_r__p_r_i_n_c_e/">IG account</a><br/> and building <a href ="https://docs.google.com/presentation/d/1GZIZk6mrOadZ_31uF2k_Qy51fRME56KsS2jWLXvXveU/edit?usp=sharing">portflio</a> under the assignment provided by <a href="https://www.coursera.org/professional-certificates/google-ux-design">Google</a>. 」
-            <br/><br/>
-            「 TO connect with me: <a href="mailto: adarshprince95655@gmail.com">Send Email</a>  」  
             <br/>
        <samp>
 </p>
@@ -49,3 +47,21 @@
             <b>{  ACTIVITIES }</b> 
         </samp> 
  </h3>
+
+ <h3 align="center" >
+        <!-- Organisation  -->
+        <samp>
+            <br/>
+            <b>{ SOCIALS }</b> <br/>      
+        </samp> 
+ </h3>
+ <p style="font-size: 10px;" align="center" >To connect with me</p> 
+
+ 
+<p align="center" style=margin:1px>       
+<!--Email-->
+<a href="mailto: adarshprince95655@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/e0e52a18a6c476bd71aebc83645566e7928a5021/email_logo.png" title = "Twitter" alt="" width="30" height="30" /></a>
+<!--Instagram-->        
+<a href="https://www.instagram.com/m_r__p_r_i_n_c_e/" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/e3707632d15fd0c3ab973caeb00a56e3bb91e07d/Instagram.png" title = "Twitter" alt="" width="30" height="30" /></a>
+   
+ </p> 
