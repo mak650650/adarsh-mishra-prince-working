@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <head>
+  <p align="center">
+  <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/424d9f86c72713a67462549f52f33b436499eb7b/resources/gif/hello1.gif"/ >
+  </p>
    </head>   
-<img src="https://imgur.com/0C8CAOE"> 
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/Admishra123">Adarsh mishra</a></b>
