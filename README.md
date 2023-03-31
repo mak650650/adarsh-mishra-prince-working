@@ -146,7 +146,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p9-Skin%20care.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for Skin care web-design.
+  Hero section for Skin care web-design with Prototype.
      <a href="https://www.figma.com/proto/NnGi1h43rMcuY66hc8EYCf/Untitled?page-id=0%3A1&node-id=9-363&viewport=624%2C60%2C0.14&scaling=scale-down&starting-point-node-id=9%3A241">(Open in Figma)</a>
   </p>
           <br>
@@ -209,7 +209,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p18-My%201st%20UI%20Prototype%20%20pgn.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-  My Mobile screen.
+  My Mobile screen with sliding screen Prototype.
      <a href="https://www.figma.com/proto/eM4UlcpdFZbOHEw0oJOwgL/My-1st-UI-Prototype?page-id=0%3A1&node-id=15-12&viewport=277%2C376%2C0.61&scaling=contain&starting-point-node-id=15%3A12">(Open in Figma)</a>
   </p>
           <br>
@@ -236,7 +236,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-  Jabra elite Headphones with Prototype.
+  Jabra elite Headphones with colour changing Prototype.
      <a href="https://www.figma.com/proto/kieC7B42H6e2BT16UDsgLr/Untitled?page-id=0%3A1&node-id=50-357&viewport=200%2C55%2C0.29&scaling=scale-down&starting-point-node-id=50%3A2">(Open in Figma)</a>
   </p>
           <br>
