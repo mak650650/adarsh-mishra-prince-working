@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
   <p align="center">
-  <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/424d9f86c72713a67462549f52f33b436499eb7b/resources/gif/hello1.gif"/ width="1000" height="400">
+  <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/c5028a7e151ca96166f5af8ffa926bfc525572b0/resources/gif/hello.gif"/ >
   </p>
    </head>   
 
