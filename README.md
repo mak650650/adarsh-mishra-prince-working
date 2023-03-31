@@ -74,7 +74,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    Hero section for travel web-design based on japan.
+    Hero section for Travel web-design based on Japan.
      <a href="">(Open in Figma)</a>
   </p>
          <!--2-->
@@ -82,7 +82,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p2-fashion.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    Hero section for fashion web-design.
+    Hero section for Fashion web-design.
      <a href="">(Open in Figma)</a>
   </p>
          <!--3-->
@@ -98,7 +98,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/241d22a6fc56c1f07f6fa83698d930574ae9b589/resources/gif/Spotlight%20effect.gif" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-   ANIMATED DESIGN 
+   ANIMATED DESIGN'S 
      <a href="https://github.com/adarsh-mishra-prince/Animated-designs/tree/main">(Visit repository)</a>
   </p>
          <!--5-->
@@ -106,7 +106,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p5-Desktop%20-%202%20Vacatins.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Hero section for Vacation web-design.
      <a href="">(Open in Figma)</a>
   </p>
          <!--6-->
@@ -114,7 +114,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p6-Magazines%20Cover.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Magazine Cover.
      <a href="">(Open in Figma)</a>
   </p>
          <!--7-->
@@ -122,7 +122,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p7-Lab%20Works%201.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Lab Work.
      <a href="">(Open in Figma)</a>
   </p>
          <!--8-->
@@ -130,7 +130,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p8-Chart%20PNG.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Analytical chart.
      <a href="">(Open in Figma)</a>
   </p>
          <!--9-->
@@ -138,7 +138,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p9-Skin%20care.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+    1. Hero section for Skin care web-design.
      <a href="">(Open in Figma)</a>
   </p>
          <!--10-->
@@ -146,7 +146,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p10-Gameing%20Console%20PNG.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Gaming console.
      <a href="">(Open in Figma)</a>
   </p>
          <!--11-->
@@ -154,7 +154,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p11-Your%20DesignChat.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Landing-page for Chatapp.
      <a href="">(Open in Figma)</a>
   </p>
          <!--12-->
@@ -162,31 +162,16 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p12-sign%20up%20page.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Sign-up page.
      <a href="">(Open in Figma)</a>
-  </p>
-         <!--13-->
- <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p13Indoor%20Plants.png" alt="" width="200" height="100">
           </p>
-  <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
-     <a href="">(Open in Figma)</a>
-  </p>
-         <!--14-->
- <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p14-Desktop%20-%201clock.png" alt="" width="200" height="100">
-          </p>
-  <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
-     <a href="">(Open in Figma)</a>
-  </p>
+  <!--13,14-->
          <!--15-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p15-Desktop%20-%201%20CHECKOUT.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Check-out.
      <a href="">(Open in Figma)</a>
   </p>
          <!--16-->
@@ -194,7 +179,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p16-Canon%20JPG.jpg" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Hero section for Canon web-design.
      <a href="">(Open in Figma)</a>
   </p>
          <!--17-->
@@ -202,7 +187,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p17-The%20Noticeable.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  The Noticeable.
      <a href="">(Open in Figma)</a>
   </p>
          <!--18-->
@@ -210,7 +195,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p18-My%201st%20UI%20Prototype%20%20pgn.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  My Mobile screen.
      <a href="">(Open in Figma)</a>
   </p>
          <!--19-->
@@ -218,7 +203,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p19-ATM%20Cards.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  ATM cards.
      <a href="">(Open in Figma)</a>
   </p>
          <!--20-->
@@ -226,7 +211,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p20-Nike%20Air%20Max%20JPG.jpg" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Nike Air Max.
      <a href="">(Open in Figma)</a>
   </p>
          <!--21-->
@@ -234,7 +219,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Jabra elite Headphones.
      <a href="">(Open in Figma)</a>
   </p>
          <!--22-->
@@ -242,6 +227,6 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p22-Icons%20JPG.jpg" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
+  Icons.
      <a href="">(Open in Figma)</a>
   </p>
