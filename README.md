@@ -95,7 +95,7 @@
   </p>
          <!--4-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p5-Desktop%20-%202%20Vacatins.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p4-Analytics%20day%2018.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     1. Hero section for travel web-design based on japan.
@@ -103,7 +103,7 @@
   </p>
          <!--5-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p5-Desktop%20-%202%20Vacatins.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     1. Hero section for travel web-design based on japan.
@@ -111,7 +111,7 @@
   </p>
          <!--6-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p6-Magazines%20Cover.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     1. Hero section for travel web-design based on japan.
@@ -119,7 +119,7 @@
   </p>
          <!--7-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p7-Lab%20Works%201.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     1. Hero section for travel web-design based on japan.
@@ -127,7 +127,7 @@
   </p>
          <!--8-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p8-Chart%20PNG.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     1. Hero section for travel web-design based on japan.
@@ -135,7 +135,7 @@
   </p>
          <!--9-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p9-Skin%20care.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     1. Hero section for travel web-design based on japan.
@@ -143,7 +143,7 @@
   </p>
          <!--10-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p10-Gameing%20Console%20PNG.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     1. Hero section for travel web-design based on japan.
