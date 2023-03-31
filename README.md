@@ -68,7 +68,184 @@
             <b>{ PROJECTS }</b> 
         </samp> 
  </h3>
+          <h4 align="center">UI DESIGNS </h4>
           <!--1-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--2-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p2-fashion.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--3-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p3-figma-100days/day1/day1-Sign%20In%20Page.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+   100 DAYS OF FIGMA 
+     <a href="https://github.com/adarsh-mishra-prince/100-Days-Figma">(Visit repository)</a>
+  </p>
+         <!--4-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p5-Desktop%20-%202%20Vacatins.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--5-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--6-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--7-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--8-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--9-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--10-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--11-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--12-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--13-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--14-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--15-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--16-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--17-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--18-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--19-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--20-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--21-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--22-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
+         <!--23-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
           </p>
