@@ -74,7 +74,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    Hero section for Travel web-design based on Japan.
+    Landing page for Travel web-design based on Japan.
      <a href="">(Open in Figma)</a>
   </p>
          <!--2-->
@@ -82,7 +82,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p2-fashion.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    Hero section for Fashion web-design.
+    Landing page for Fashion web-design.
      <a href="">(Open in Figma)</a>
   </p>
          <!--3-->
