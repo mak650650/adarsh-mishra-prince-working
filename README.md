@@ -210,7 +210,7 @@
           </p>
   <p font-weight:"bold" align="center">
   My Mobile screen.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/eM4UlcpdFZbOHEw0oJOwgL/My-1st-UI-Prototype?page-id=0%3A1&node-id=15-12&viewport=277%2C376%2C0.61&scaling=contain&starting-point-node-id=15%3A12">(Open in Figma)</a>
   </p>
           <br>
          <!--19-->
@@ -219,7 +219,7 @@
           </p>
   <p font-weight:"bold" align="center">
   ATM cards.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/V9wxuipwjCjTmJKI8VdbPQ/Untitled?page-id=0%3A1&node-id=16-2&viewport=475%2C335%2C0.5&scaling=scale-down&starting-point-node-id=16%3A2">(Open in Figma)</a>
   </p>
           <br>
          <!--20-->
@@ -228,7 +228,7 @@
           </p>
   <p font-weight:"bold" align="center">
   Nike Air Max.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/XmMIFgQXB3r2kC492sHI1C/Nike-Air-Max?page-id=0%3A1&node-id=201-5&viewport=647%2C322%2C0.27&scaling=scale-down">(Open in Figma)</a>
   </p>
           <br>
          <!--21-->
@@ -236,8 +236,8 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-  Jabra elite Headphones.
-     <a href="">(Open in Figma)</a>
+  Jabra elite Headphones with Prototype.
+     <a href="https://www.figma.com/proto/kieC7B42H6e2BT16UDsgLr/Untitled?page-id=0%3A1&node-id=50-357&viewport=200%2C55%2C0.29&scaling=scale-down&starting-point-node-id=50%3A2">(Open in Figma)</a>
   </p>
           <br>
          <!--22-->
@@ -246,5 +246,5 @@
           </p>
   <p font-weight:"bold" align="center">
   Icons.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/ELKR38EqAigtkRKzlYtqga/Icons?page-id=0%3A1&node-id=101-3&viewport=456%2C294%2C0.07&scaling=scale-down">(Open in Figma)</a>
   </p>
