@@ -82,7 +82,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p2-fashion.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    Hero section for travel web-design based on japan.
+    Hero section for fashion web-design.
      <a href="">(Open in Figma)</a>
   </p>
          <!--3-->
@@ -95,11 +95,11 @@
   </p>
          <!--4-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p4-Analytics%20day%2018.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/241d22a6fc56c1f07f6fa83698d930574ae9b589/resources/gif/Spotlight%20effect.gif" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-    1. Hero section for travel web-design based on japan.
-     <a href="">(Open in Figma)</a>
+   ANIMATED DESIGN 
+     <a href="https://github.com/adarsh-mishra-prince/Animated-designs/tree/main">(Visit repository)</a>
   </p>
          <!--5-->
  <p align="center">
