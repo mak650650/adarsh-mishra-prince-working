@@ -44,23 +44,15 @@
             <br/>
        <samp>
 </p>
-<h3 align="center" >
-        <!-- Organisation  -->
-        <samp>
-            <br/>
-            <b>{  ACTIVITIES }</b> 
-        </samp> 
- </h3>
-
- <h3 align="center" >
-        <!-- Organisation  -->
+               <!-- Organisation  -->
+          <h3 align="center" >
         <samp>
             <br/>
             <b>{ SOCIALS }</b> <br/>      
         </samp> 
  </h3>
  <p style="font-size: 10px;" align="center" >To connect with me</p> 
-
+         
  
 <p align="center" style=margin:1px>       
 <!--Email-->
@@ -69,3 +61,18 @@
 <a href="https://www.instagram.com/m_r__p_r_i_n_c_e/" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/e3707632d15fd0c3ab973caeb00a56e3bb91e07d/Instagram.png" title = "Twitter" alt="" width="30" height="30" /></a>
    
  </p> 
+<h3 align="center" >
+        <!-- Organisation  -->
+        <samp>
+            <br/>
+            <b>{ PROJECTS }</b> 
+        </samp> 
+ </h3>
+          <!--1-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+          </p>
+  <p font-weight:"bold" align="center">
+    1. Hero section for travel web-design based on japan.
+     <a href="">(Open in Figma)</a>
+  </p>
