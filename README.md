@@ -75,16 +75,18 @@
           </p>
   <p font-weight:"bold" align="center">
     Landing page for Travel web-design based on Japan.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/yxXhatwojrE7lGpaeplYl7/Untitled?page-id=0%3A1&node-id=6-21&viewport=823%2C956%2C0.09&scaling=min-zoom">(Open in Figma)</a>
   </p>
+          <br>
          <!--2-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p2-fashion.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     Landing page for Fashion web-design.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/5BXdTb684d4bbqWgTmp4NA/landing-page-part-2?page-id=0%3A1&node-id=1-2&viewport=498%2C55%2C0.07&scaling=scale-down">(Open in Figma)</a>
   </p>
+          <br>
          <!--3-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p3-figma-100days/day1/day1-Sign%20In%20Page.png" alt="" width="200" height="100">
@@ -93,6 +95,7 @@
    100 DAYS OF FIGMA 
      <a href="https://github.com/adarsh-mishra-prince/100-Days-Figma">(Visit repository)</a>
   </p>
+          <br>
          <!--4-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/241d22a6fc56c1f07f6fa83698d930574ae9b589/resources/gif/Spotlight%20effect.gif" alt="" width="200" height="100">
@@ -101,70 +104,79 @@
    ANIMATED DESIGN'S 
      <a href="https://github.com/adarsh-mishra-prince/Animated-designs/tree/main">(Visit repository)</a>
   </p>
+          <br>
          <!--5-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p5-Desktop%20-%202%20Vacatins.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   Hero section for Vacation web-design.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/fSNW22xuFEbGJDlKXbgCO5/Untitled?page-id=0%3A1&node-id=3-11&viewport=-466%2C131%2C0.64&scaling=scale-down">(Open in Figma)</a>
   </p>
+          <br>
          <!--6-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p6-Magazines%20Cover.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   Magazine Cover.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/1gLPbSu3RzQJszZaBcbEyK/Magazines-Cover?page-id=0%3A1&node-id=3-43&scaling=scale-down">(Open in Figma)</a>
   </p>
+          <br>
          <!--7-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p7-Lab%20Works%201.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   Lab Work.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/Jo51aYRNv6cBYaFEOPLNNE/Lab-Works?page-id=0%3A1&node-id=0-3&viewport=283%2C375%2C0.33&scaling=scale-down">(Open in Figma)</a>
   </p>
+          <br>
          <!--8-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p8-Chart%20PNG.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   Analytical chart.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/WLgyYKtJkSZJfjeUKDMdAa/Chart?page-id=0%3A1&node-id=1-2&viewport=677%2C532%2C0.83&scaling=min-zoom&starting-point-node-id=1%3A2">(Open in Figma)</a>
   </p>
+          <br>
          <!--9-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p9-Skin%20care.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
     1. Hero section for Skin care web-design.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/NnGi1h43rMcuY66hc8EYCf/Untitled?page-id=0%3A1&node-id=9-363&viewport=624%2C60%2C0.14&scaling=scale-down&starting-point-node-id=9%3A241">(Open in Figma)</a>
   </p>
+          <br>
          <!--10-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p10-Gameing%20Console%20PNG.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   Gaming console.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/lnsiHYoxarYIJgYcRNdQwi/Gameing-Console?page-id=0%3A1&node-id=2-9&viewport=468%2C-182%2C0.57&scaling=scale-down">(Open in Figma)</a>
   </p>
+          <br>
          <!--11-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p11-Your%20DesignChat.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   Landing-page for Chatapp.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/kMzABfswWYbn41De0642da/Practice%3A-Chat-App-Homepage-Design-(Copy)?page-id=107%3A2&node-id=107-17&viewport=429%2C103%2C0.17&scaling=min-zoom">(Open in Figma)</a>
   </p>
+          <br>
          <!--12-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p12-sign%20up%20page.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   Sign-up page.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/N8yblXiFJh3DFLfxyZnHx1/Sign-Up?page-id=0%3A1&node-id=1-15&viewport=-414%2C207%2C0.68&scaling=scale-down">(Open in Figma)</a>
           </p>
+          <br>
   <!--13,14-->
          <!--15-->
  <p align="center">
@@ -172,24 +184,26 @@
           </p>
   <p font-weight:"bold" align="center">
   Check-out.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/yNbVBW0O6eJwzkSy4Fii6t/Untitled?page-id=0%3A1&node-id=1-3&viewport=-498%2C108%2C0.64&scaling=scale-down">(Open in Figma)</a>
   </p>
+          <br>
          <!--16-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p16-Canon%20JPG.jpg" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   Hero section for Canon web-design.
-     <a href="">(Open in Figma)</a>
+     <a href="https://www.figma.com/proto/KRBBq96qJ57l6gW85HLBUq/Untitled?page-id=0%3A1&node-id=3-5&viewport=397%2C367%2C0.57&scaling=scale-down">(Open in Figma)</a>
   </p>
+          <br>
          <!--17-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p17-The%20Noticeable.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
   The Noticeable.
-     <a href="">(Open in Figma)</a>
   </p>
+          <br>
          <!--18-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p18-My%201st%20UI%20Prototype%20%20pgn.png" alt="" width="200" height="100">
@@ -198,6 +212,7 @@
   My Mobile screen.
      <a href="">(Open in Figma)</a>
   </p>
+          <br>
          <!--19-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p19-ATM%20Cards.png" alt="" width="200" height="100">
@@ -206,6 +221,7 @@
   ATM cards.
      <a href="">(Open in Figma)</a>
   </p>
+          <br>
          <!--20-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p20-Nike%20Air%20Max%20JPG.jpg" alt="" width="200" height="100">
@@ -214,6 +230,7 @@
   Nike Air Max.
      <a href="">(Open in Figma)</a>
   </p>
+          <br>
          <!--21-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="200" height="100">
@@ -222,6 +239,7 @@
   Jabra elite Headphones.
      <a href="">(Open in Figma)</a>
   </p>
+          <br>
          <!--22-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p22-Icons%20JPG.jpg" alt="" width="200" height="100">
