@@ -164,7 +164,7 @@
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p11-Your%20DesignChat.png" alt="" width="200" height="100">
           </p>
   <p font-weight:"bold" align="center">
-  Landing-page for Chatapp.
+  Landing page for Chatapp.
      <a href="https://www.figma.com/proto/kMzABfswWYbn41De0642da/Practice%3A-Chat-App-Homepage-Design-(Copy)?page-id=107%3A2&node-id=107-17&viewport=429%2C103%2C0.17&scaling=min-zoom">(Open in Figma)</a>
   </p>
           <br>
