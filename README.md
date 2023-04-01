@@ -89,7 +89,7 @@
           <br>
          <!--3-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p3-figma-100days/day1/day1-Sign%20In%20Page.png" alt="" width="400" height="250">
+           <img src="https://user-images.githubusercontent.com/64770540/229273106-5d2024d6-5f05-4d69-8894-cf5ed488fb07.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
    100 DAYS OF FIGMA 
@@ -161,7 +161,7 @@
           <br>
          <!--11-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p11-Your%20DesignChat.png" alt="" width="400" height="250">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p11-Your%20DesignChat.png" alt="" width="400" height="1000">
           </p>
   <p font-weight:"bold" align="center">
   Landing page for Chatapp.
@@ -170,7 +170,7 @@
           <br>
          <!--12-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p12-sign%20up%20page.png" alt="" width="400" height="250">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p12-sign%20up%20page.png" alt="" width="400" height="600">
           </p>
   <p font-weight:"bold" align="center">
   Sign-up page.
@@ -233,7 +233,7 @@
           <br>
          <!--21-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="400" height="250">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="400" height="700">
           </p>
   <p font-weight:"bold" align="center">
   Jabra elite Headphones with colour changing Prototype.
