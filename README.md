@@ -69,6 +69,15 @@
         </samp> 
  </h3>
           <h4 align="center">UI DESIGNS </h4>
+                   <!--4-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/241d22a6fc56c1f07f6fa83698d930574ae9b589/resources/gif/Spotlight%20effect.gif" alt="" width="400" height="250">
+          </p>
+  <p font-weight:"bold" align="center">
+   ANIMATED DESIGN'S 
+     <a href="https://github.com/adarsh-mishra-prince/Animated-designs/tree/main">(Visit repository)</a>
+  </p>
+          <br>
           <!--1-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="400" height="250">
@@ -94,15 +103,6 @@
   <p font-weight:"bold" align="center">
    100 DAYS OF FIGMA 
      <a href="https://github.com/adarsh-mishra-prince/100-Days-Figma">(Visit repository)</a>
-  </p>
-          <br>
-         <!--4-->
- <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/241d22a6fc56c1f07f6fa83698d930574ae9b589/resources/gif/Spotlight%20effect.gif" alt="" width="400" height="250">
-          </p>
-  <p font-weight:"bold" align="center">
-   ANIMATED DESIGN'S 
-     <a href="https://github.com/adarsh-mishra-prince/Animated-designs/tree/main">(Visit repository)</a>
   </p>
           <br>
          <!--5-->
