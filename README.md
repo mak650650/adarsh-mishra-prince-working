@@ -71,7 +71,7 @@
           <h4 align="center">UI DESIGNS </h4>
           <!--1-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/865e3bb611cedd595b9e51355e3d8fd054d5e361/resources/p1-japan.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
     Landing page for Travel web-design based on Japan.
@@ -80,7 +80,7 @@
           <br>
          <!--2-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p2-fashion.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p2-fashion.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
     Landing page for Fashion web-design.
@@ -89,7 +89,7 @@
           <br>
          <!--3-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p3-figma-100days/day1/day1-Sign%20In%20Page.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/7c0043f3f861c29854625ea80b3c854b8a3cb12b/resources/p3-figma-100days/day1/day1-Sign%20In%20Page.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
    100 DAYS OF FIGMA 
@@ -98,7 +98,7 @@
           <br>
          <!--4-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/241d22a6fc56c1f07f6fa83698d930574ae9b589/resources/gif/Spotlight%20effect.gif" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/241d22a6fc56c1f07f6fa83698d930574ae9b589/resources/gif/Spotlight%20effect.gif" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
    ANIMATED DESIGN'S 
@@ -107,7 +107,7 @@
           <br>
          <!--5-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p5-Desktop%20-%202%20Vacatins.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p5-Desktop%20-%202%20Vacatins.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Hero section for Vacation web-design.
@@ -116,7 +116,7 @@
           <br>
          <!--6-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p6-Magazines%20Cover.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p6-Magazines%20Cover.png" alt="" width40000" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Magazine Cover.
@@ -125,7 +125,7 @@
           <br>
          <!--7-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p7-Lab%20Works%201.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p7-Lab%20Works%201.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Lab Work.
@@ -134,7 +134,7 @@
           <br>
          <!--8-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p8-Chart%20PNG.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p8-Chart%20PNG.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Analytical chart.
@@ -143,7 +143,7 @@
           <br>
          <!--9-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p9-Skin%20care.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p9-Skin%20care.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Hero section for Skin care web-design with Prototype.
@@ -152,7 +152,7 @@
           <br>
          <!--10-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p10-Gameing%20Console%20PNG.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/657bd981c591c01270d0216a7aac280fb74dca46/resources/p10-Gameing%20Console%20PNG.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Gaming console.
@@ -161,7 +161,7 @@
           <br>
          <!--11-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p11-Your%20DesignChat.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p11-Your%20DesignChat.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Landing page for Chatapp.
@@ -170,7 +170,7 @@
           <br>
          <!--12-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p12-sign%20up%20page.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p12-sign%20up%20page.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Sign-up page.
@@ -180,7 +180,7 @@
   <!--13,14-->
          <!--15-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p15-Desktop%20-%201%20CHECKOUT.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/21da3d6f29e58f0e1d94605504bf3a70507a0c9b/resources/p15-Desktop%20-%201%20CHECKOUT.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Check-out.
@@ -189,7 +189,7 @@
           <br>
          <!--16-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p16-Canon%20JPG.jpg" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p16-Canon%20JPG.jpg" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Hero section for Canon web-design.
@@ -198,7 +198,7 @@
           <br>
          <!--17-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p17-The%20Noticeable.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p17-The%20Noticeable.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   The Noticeable.
@@ -206,7 +206,7 @@
           <br>
          <!--18-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p18-My%201st%20UI%20Prototype%20%20pgn.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p18-My%201st%20UI%20Prototype%20%20pgn.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   My Mobile screen with sliding screen Prototype.
@@ -215,7 +215,7 @@
           <br>
          <!--19-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p19-ATM%20Cards.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p19-ATM%20Cards.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   ATM cards.
@@ -224,7 +224,7 @@
           <br>
          <!--20-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p20-Nike%20Air%20Max%20JPG.jpg" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p20-Nike%20Air%20Max%20JPG.jpg" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Nike Air Max.
@@ -233,7 +233,7 @@
           <br>
          <!--21-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p21-iPhone%2014%20Pro%20Max%20-%2011%20Jabra%20elite%2045h.png" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Jabra elite Headphones with colour changing Prototype.
@@ -242,7 +242,7 @@
           <br>
          <!--22-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p22-Icons%20JPG.jpg" alt="" width="200" height="100">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/df2047bd504fd51ff6a7f92c2bf320991143afd4/resources/p22-Icons%20JPG.jpg" alt="" width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Icons.
